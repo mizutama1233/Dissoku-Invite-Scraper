@@ -1,7 +1,7 @@
 # Dissoku-Invite-Scraper
 ディス速の招待リンクを取得します
 
-とっきーﾅﾏｽﾃ#3929
+Discord: .kap210
 
 # 使用方法
 `pip install requests`
